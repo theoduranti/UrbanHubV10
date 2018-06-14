@@ -1,24 +1,24 @@
-# README
+### Lien de prod</br>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+https://frozen-depths-37585.herokuapp.com/</br></br>
 
-Things you may want to cover:
+### Reste à faire : </br>
+#### View 
+Ele->index</br>
+Pro->index -> show
 
-* Ruby version
+#### Devise => pay, mail avec pass</br>
 
-* System dependencies
+#### Bootstrap
+partout</br></br>
 
-* Configuration
 
-* Database creation
+### Reste à faire optionnel :</br>
 
-* Database initialization
+#### Filtre 
+event => index</br>
+ele => index</br>
+pro => index</br>
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+#### has_friendship
+(gem ou manuel)
